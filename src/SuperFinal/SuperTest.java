@@ -1,10 +1,10 @@
 package SuperFinal;
 
-class A
+class A5
 {
     int no=10;
 }
-class B2 extends A
+class B2 extends A5
 {
     int no=20;
     void show(int no)
