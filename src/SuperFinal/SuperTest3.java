@@ -1,4 +1,4 @@
-package Super;
+package SuperFinal;
 
 class A4
 {

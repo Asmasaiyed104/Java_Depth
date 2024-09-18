@@ -1,4 +1,4 @@
-package Super;
+package SuperFinal;
 class C
 {
     final void m2()
