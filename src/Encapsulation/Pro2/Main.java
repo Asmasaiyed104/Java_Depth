@@ -9,8 +9,10 @@ public class Main {
     public static void main(String[] args) {
         // Create a new bank account
         BankAccount account = new BankAccount("123456789", 1000.0, 1234);
+        //System.out.println(account);
 
         Scanner scanner = new Scanner(System.in);
+
         int choice;
 
         do {
