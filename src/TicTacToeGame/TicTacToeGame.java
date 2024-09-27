@@ -19,7 +19,7 @@ public class TicTacToeGame implements ActionListener
 
     TicTacToeGame()
     {
-        jf=new JFrame("TicTacToe Game by Deepak");
+        jf=new JFrame("TicTacToe Game by Asma");
         jf.setSize(500,500);
         jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jf.setLayout(new GridLayout(3, 3));
