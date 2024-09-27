@@ -1,4 +1,4 @@
-package Collection.Vector;
+package Collection.ArrayList.Proj2.Vector;
 
 import java.util.Vector;
 

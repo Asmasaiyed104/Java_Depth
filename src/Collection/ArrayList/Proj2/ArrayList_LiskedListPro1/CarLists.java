@@ -1,4 +1,4 @@
-package Collection.ArrayList_LiskedListPro1;
+package Collection.ArrayList.Proj2.ArrayList_LiskedListPro1;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
